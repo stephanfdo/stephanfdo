@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Stephan 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanfdo&show_icons=true&theme=radical)
+- 👋 Hi, I’m @Stephan Fernando
 
 
 
